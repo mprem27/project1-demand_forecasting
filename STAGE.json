@@ -1,5 +1,6 @@
 {
   "week": 4,
   "cumulative": true,
-  "project": "demand_forecasting"
+  "project": "demand_forecasting",
+  "release": 2
 }

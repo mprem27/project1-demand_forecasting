@@ -1,4 +1,3 @@
-"""Run this cumulative week's CLI workflow from any working directory."""
 import json
 from pathlib import Path
 import subprocess
